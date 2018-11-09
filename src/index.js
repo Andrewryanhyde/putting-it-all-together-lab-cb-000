@@ -1,4 +1,3 @@
-17 lines (12 sloc)  515 Bytes
 import React from 'react';
 import ReactDOM from 'react-dom';
 import {createStore} from './store';
